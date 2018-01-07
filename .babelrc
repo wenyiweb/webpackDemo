@@ -1,0 +1,10 @@
+{
+    "presets": [
+        ["env",{
+            "target": {
+                "chrome": 52,
+                "browsers": ["last 2 versions", "safari 7"]
+            }
+        }]
+    ]//设置编译场景，并配置目标结果兼容到chrome52版本以上等等
+}

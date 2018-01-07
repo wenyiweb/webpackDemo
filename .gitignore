@@ -1,0 +1,8 @@
+.DS_Store
+.vscode
+.idea
+dist
+node_modules
+webpack.config-bg.js
+readeMe2
+server.js
