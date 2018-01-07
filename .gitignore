@@ -3,6 +3,6 @@
 .idea
 dist
 node_modules
-webpack.config-bg.js
+webpack.config_bk.js
 readeMe2
 server.js
